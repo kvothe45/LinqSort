@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\LinqSort\LinqSort\bin\Debug\LinqSort.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\LinqSort\LinqSort\bin\Debug\LinqSort.exe
+c:\users\texas\documents\visual studio 2015\Projects\LinqSort\LinqSort\bin\Debug\LinqSort.pdb
+c:\users\texas\documents\visual studio 2015\Projects\LinqSort\LinqSort\obj\Debug\LinqSort.csprojResolveAssemblyReference.cache
+c:\users\texas\documents\visual studio 2015\Projects\LinqSort\LinqSort\obj\Debug\LinqSort.exe
+c:\users\texas\documents\visual studio 2015\Projects\LinqSort\LinqSort\obj\Debug\LinqSort.pdb
